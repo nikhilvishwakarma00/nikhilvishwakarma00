@@ -1,3 +1,10 @@
+███╗   ██╗██╗██╗  ██╗██╗██╗     
+████╗  ██║██║██║ ██╔╝██║██║     
+██╔██╗ ██║██║█████╔╝ ██║██║     
+██║╚██╗██║██║██╔═██╗ ██║██║     
+██║ ╚████║██║██║  ██╗██║███████╗
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+
 👋 Hi, I'm Nikhil
 
 <p align="center">
@@ -9,6 +16,10 @@
 
 🚀 About Me
 
+> 😄 Yes, I use Arch BTW.
+
+
+
 🐧 Linux power user (Arch Linux + Hyprland) 😄
 
 💻 Passionate about Open Source, UI/UX, and performance-driven apps
@@ -18,6 +29,63 @@
 🌱 Currently exploring Flutter, advanced web apps, and system-level tweaks
 
 🎯 Goal: Build clean, fast, and user-focused software
+
+
+
+---
+
+🛡️ Cybersecurity & Pentesting
+
+🔐 Cybersecurity Interests
+
+🏁 Capture The Flag (CTF)
+
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>🧪 Actively practicing CTFs to build real-world security skills
+
+🌐 Focus areas: Web Exploitation, Linux Privilege Escalation, Networking, Basics of Crypto & Forensics
+
+🎯 Goal: strengthen hands-on offensive security while staying fully ethical & legal
+
+
+<p>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTFs-1F2937?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Linux_Security-020617?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking_Basics-0B1220?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>🦜 Experience with Parrot OS for penetration testing and security research
+
+🔍 Familiar with ethical hacking, CTFs, and offensive security fundamentals
+
+🛠️ Tools I work with:
+
+Nmap, Burp Suite, Metasploit (basics)
+
+Wireshark, SQLMap, Hydra (learning & practice)
+
+
+🧠 Strong interest in Linux security, networking basics, and system internals
+
+⚠️ Focused on ethical & legal security testing only
+
+
+
+---
+
+💻 Terminal Motto
+
+$ whoami
+nikhil
+
+$ echo "Hack the system. Secure the world." 
+Hack the system. Secure the world.
+
+> "The quieter you become, the more you are able to hear." — Hacker mindset
+
 
 
 
