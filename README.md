@@ -69,10 +69,10 @@ Wireshark, SQLMap, Hydra (learning & practice)
 ## 💻 Terminal Motto
 
 ```bash
-$ whoami
+ $whoami
   nikhil
 
-$echo "Hack the system. Secure the world."
+ $echo "Hack the system. Secure the world."
 ```
 
 
