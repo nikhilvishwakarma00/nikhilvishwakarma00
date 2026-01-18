@@ -1,7 +1,7 @@
 👋 Hi, I'm Nikhil
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Linux+%26+Open+Source+Enthusiast;Frontend+%7C+Flutter+%7C+Web+Developer;Hyprland+%7C+Neovim+%7C+Fedora;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Linux+%26+Open+Source+Enthusiast;Frontend+%7C+Flutter+%7C+Web+Developer;Hyprland+%7C+Neovim+%7C+Arch;Always+Learning+New+Things" />
 </p><p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-6cdd7b45-2e2c-4a9c-b9b9-2d8e4b3a3c58.gif" width="500" />
 </p>
