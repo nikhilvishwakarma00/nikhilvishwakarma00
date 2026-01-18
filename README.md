@@ -74,17 +74,14 @@ Wireshark, SQLMap, Hydra (learning & practice)
 
 
 ---
+## 💻 Terminal Motto
 
-💻 Terminal Motto
-
+```bash
 $ whoami
-nikhil
+  nikhil
 
-$ echo "Hack the system. Secure the world." 
-Hack the system. Secure the world.
-
-> "The quieter you become, the more you are able to hear." — Hacker mindset
-
+$echo "Hack the system. Secure the world."
+```
 
 
 
