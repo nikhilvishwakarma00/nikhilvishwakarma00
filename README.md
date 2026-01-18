@@ -23,14 +23,6 @@
 
 🎯 Goal: Build clean, fast, and user-focused software
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilvishwakarma00&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvishwakarma00&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nikhilvishwakarma00&theme=tokyonight&hide_border=true)
-
 ---
 
 🛡️ Cybersecurity & Pentesting
@@ -114,7 +106,19 @@ $echo "Hack the system. Secure the world."
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" />
 </p>
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilvishwakarma00&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvishwakarma00&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilvishwakarma00&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 🔥 Featured Projects
