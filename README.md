@@ -1,10 +1,3 @@
-███╗   ██╗██╗██╗  ██╗██╗██╗     
-████╗  ██║██║██║ ██╔╝██║██║     
-██╔██╗ ██║██║█████╔╝ ██║██║     
-██║╚██╗██║██║██╔═██╗ ██║██║     
-██║ ╚████║██║██║  ██╗██║███████╗
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-
 👋 Hi, I'm Nikhil
 
 <p align="center">
@@ -30,7 +23,13 @@
 
 🎯 Goal: Build clean, fast, and user-focused software
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilvishwakarma00&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilvishwakarma00&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilvishwakarma00&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -89,7 +88,7 @@ Hack the system. Secure the world.
 
 
 
----
+
 
 🧰 Tech Stack
 
@@ -119,14 +118,6 @@ Hack the system. Secure the world.
 </p>
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 ---
 
 🔥 Featured Projects
@@ -146,10 +137,10 @@ Hack the system. Secure the world.
 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/nikhilvishwakarma00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/nikhilvishwakarma00">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -163,7 +154,7 @@ Hack the system. Secure the world.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilvishwakarma00&style=flat-square&color=blue" />
 </p><p align="center">
   ✨ _"Build it clean. Build it fast."_ ✨
 </p>
