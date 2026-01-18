@@ -23,11 +23,11 @@
 
 🎯 Goal: Build clean, fast, and user-focused software
 
----
+---------------------------------------------------------------
 
-🛡️ Cybersecurity & Pentesting
+🛡️ Cybersecurity & Pentesting      🔐 Cybersecurity Interests
 
-🔐 Cybersecurity Interests
+---------------------------------------------------------------
 
 🏁 Capture The Flag (CTF)
 
@@ -66,7 +66,7 @@ Wireshark, SQLMap, Hydra (learning & practice)
 
 
 ---
-## 💻 Terminal Motto
+## 💻 My  Motto
 
 ```bash
  $whoami
