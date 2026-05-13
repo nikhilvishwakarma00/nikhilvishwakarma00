@@ -1,142 +1,107 @@
-👋 Hi, I'm Nikhil
+<h1 align="center">👋 Hi, I'm Nikhil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Linux+%26+Open+Source+Enthusiast;Frontend+%7C+Flutter+%7C+Web+Developer;Hyprland+%7C+Neovim+%7C+Arch;Always+Learning+New+Things" />
-</p><p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-6cdd7b45-2e2c-4a9c-b9b9-2d8e4b3a3c58.gif" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Android+%7C+Kotlin+%7C+Flutter;Linux+%26+Open+Source+Enthusiast;Cybersecurity+%26+Pentesting;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-6cdd7b45-2e2c-4a9c-b9b9-2d8e4b3a3c58.gif" width="500" alt="Welcome GIF" />
+</p>
+
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-> 😄 Yes, I use Arch BTW.
+> 😄 *Yes, I use Arch BTW.*
 
+* 🐧 **Linux Power User:** Daily driving Arch Linux & Hyprland.
+* 💻 **Passionate Developer:** Focused on Open Source (FOSS), UI/UX, and performance-driven applications.
+* 📱 **App Development:** Building clean, fast, and user-focused native Android apps and Flutter projects.
+* 🛠️ **Workflow Enthusiast:** Always customizing my environment with Neovim, custom shells, and scripts.
+* 🌱 **Currently Exploring:** Advanced system-level tweaks, modern Android architecture, and offensive security.
 
+---
 
-🐧 Linux power user (Arch Linux + Hyprland) 😄
+## 🛡️ Cybersecurity & Pentesting
 
-💻 Passionate about Open Source, UI/UX, and performance-driven apps
+*“Hack the system. Secure the world.”*
 
-🛠️ Love customizing workflows (Neovim, custom shells, scripts)
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Security-020617?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-🌱 Currently exploring Flutter, advanced web apps, and system-level tweaks
+* 🏁 **Capture The Flag (CTF):** Actively practicing to build real-world, ethical security skills.
+* 🌐 **Focus Areas:** Web Exploitation, Linux Privilege Escalation, Networking, Cryptography, and Forensics.
+* 🦜 **Environment:** Experience with Parrot OS for penetration testing and security research.
+* 🛠️ **Toolkit:** Nmap, Burp Suite, Metasploit, Wireshark, SQLMap, and Hydra.
 
-🎯 Goal: Build clean, fast, and user-focused software
-
----------------------------------------------------------------
-
-🛡️ Cybersecurity & Pentesting      🔐 Cybersecurity Interests
-
----------------------------------------------------------------
-
-🏁 Capture The Flag (CTF)
-
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   <img src="https://img.shields.io/badge/Hack_The_Box-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>🧪 Actively practicing CTFs to build real-world security skills
-
-🌐 Focus areas: Web Exploitation, Linux Privilege Escalation, Networking, Basics of Crypto & Forensics
-
-🎯 Goal: strengthen hands-on offensive security while staying fully ethical & legal
-
-
-<p>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTFs-1F2937?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  <img src="https://img.shields.io/badge/Linux_Security-020617?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking_Basics-0B1220?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>🦜 Experience with Parrot OS for penetration testing and security research
-
-🔍 Familiar with ethical hacking, CTFs, and offensive security fundamentals
-
-🛠️ Tools I work with:
-
-Nmap, Burp Suite, Metasploit (basics)
-
-Wireshark, SQLMap, Hydra (learning & practice)
-
-
-🧠 Strong interest in Linux security, networking basics, and system internals
-
-⚠️ Focused on ethical & legal security testing only
-
-
+</p>
 
 ---
-## 💻 My  Motto
 
-```bash
- $whoami
-  nikhil
+## 🧰 Tech Stack
 
- $echo "Hack the system. Secure the world."
-```
-
-
-
-
-
-🧰 Tech Stack
-
-💻 Languages
-
+**💻 Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,bash,python" />
-</p>🌐 Frameworks & Tools
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,js,ts,html,css,bash,python" />
+</p>
 
+**🌐 Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,vite" />
-</p>⚙️ Dev Environment
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nodejs,vite" />
+</p>
 
+**⚙️ Dev Environment**
 <p>
   <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,vscode" />
 </p>
+
 ---
 
-🖥️ My Setup
+## 🖥️ My Setup
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Hyprland-00C7B7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim" />
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" />
 </p>
----
----
 
+```bash
+$ whoami
+nikhil — builder, tinkerer, open-source contributor
+
+$ echo "Ship it. Improve it. Repeat."
+```
 🔥 Featured Projects
 
-🚀 Custom Neovim Config – Personalized NvChad-based workflow
+-🎵 Velune: An ad-free, open-source Android music player built with Kotlin, Jetpack Compose, and Material 3. Available on GitHub and IzzyOnDroid. (400+ ⭐, 10,000+ Downloads)
 
-🖥️ Hyprland Scripts & Widgets – Minimal & fast desktop tweaks
+-📱 Flutter UI Experiments: Cross-platform mobile applications focusing on smooth animations and iOS-style interfaces.
 
-🌐 Web Apps – Chromium-based web apps with custom icons
+-🚀 Custom Neovim Config: A highly personalized, NvChad-based workflow optimized for heavy development.
 
-📱 Flutter UI Experiments – iOS-style launchers & animations
+-🖥️ Hyprland Scripts & Widgets: Minimalist, high-performance desktop tweaks and scripts for Linux.
 
-
-
----
+-🌐 Web Apps: Fast, Chromium-based web applications with customized icons and workflows.
 
 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/nikhilvishwakarma00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://twitter.com/nikhilvishwakarma00">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<p align="left">
+<a href="https://github.com/nikhilvishwakarma00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://twitter.com/nikhilvishwakarma00">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
----
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilvishwakarma00&style=flat-square&color=blue" />
-</p><p align="center">
-  ✨ _"Build it clean. Build it fast."_ ✨
+<img src="https://komarev.com/ghpvc/?username=nikhilvishwakarma00&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+<p align="center">
+✨ <i>"Build it clean. Build it fast."</i> ✨
 </p>
