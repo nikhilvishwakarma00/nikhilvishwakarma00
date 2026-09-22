@@ -53,9 +53,9 @@ Languages
 
 🔐 Cybersecurity
 
-<div align="center">«Understand the system. Understand how it breaks. Learn how to secure it.»
-
-</div>I'm building practical cybersecurity knowledge through hands-on labs, CTFs, networking and experimentation.
+<div align="center">
+I'm building practical cybersecurity knowledge through hands-on labs, CTFs, networking and experimentation.
+</div>
 
 Areas I'm Exploring
 
