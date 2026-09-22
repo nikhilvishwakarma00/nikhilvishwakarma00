@@ -221,29 +221,7 @@ Workflow  → Build • Break • Fix • Repeat
 
 </div>
 
-🧠 How I Learn
 
-<div align="center">
-       Learn
-         →
-       Build 
-         →
-       Break 
-         →
-       Debug 
-         →
-     Understand 
-         →
-      Improve 
-         →
-       Repeat 
-
-</div>
-<br>
-<div align="center">
-  «I don't want to just know how to use a tool.<br>
-  I want to understand why it works.»
-</div>
 
 ---
 
