@@ -13,25 +13,25 @@ Software Developer • Open Source • Linux • Cybersecurity
   <i>Build things. Break things. Figure out how they work.</i>
 </p></div>---
 
-🚀 About Me
+** About Me 
 
 I'm a Computer Science student and developer interested in software engineering, open source, Linux, cybersecurity, DevOps, and AI.
 
 I learn primarily by building projects, experimenting with systems, and trying to understand what's happening underneath the abstractions.
 
-«😎 Yes, I use Linux BTW.»
+«Yes, I use Linux BTW.»
 
-- 💻 Software Development — Building practical applications with a focus on clean UX and performance.
-- 📱 Android Development — Kotlin, Jetpack Compose and modern Android architecture.
-- 🐧 Linux — Daily-driving Linux and customizing my development environment.
-- 🔐 Cybersecurity — Learning ethical hacking, networking, Linux security and penetration testing.
-- ☁️ DevOps — Exploring containers, cloud infrastructure, CI/CD and automation.
-- 🤖 AI — Exploring LLMs, AI-powered applications and developer tooling.
-- 🌱 Currently — Strengthening my fundamentals while building larger projects.
+- Software Development — Building practical applications with a focus on clean UX and performance.
+- Android Development — Kotlin, Jetpack Compose and modern Android architecture.
+- Linux — Daily-driving Linux and customizing my development environment.
+- Cybersecurity — Learning ethical hacking, networking, Linux security and penetration testing.
+- DevOps — Exploring containers, cloud infrastructure, CI/CD and automation.
+- AI — Exploring LLMs, AI-powered applications and developer tooling.
+- Currently — Strengthening my fundamentals while building larger projects.
 
 ---
 
-🧰 Tech Stack
+** Tech Stack
 
 Languages
 
@@ -51,7 +51,7 @@ Languages
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,express,mongodb" alt="Technologies">
 </p>---
 
-🔐 Cybersecurity
+** Cybersecurity
 
 <div align="center">
 I'm building practical cybersecurity knowledge through hands-on labs, CTFs, networking and experimentation.
@@ -99,7 +99,7 @@ Areas I'm Exploring
   </a>
 </p>---
 
-📱 Featured Project
+** Featured Project
 
 🎵 Velune
 
@@ -114,11 +114,11 @@ Built with:
   <code>Android</code>
 </p>Velune started as an experiment in building a clean Android music experience and grew into a real open-source project.
 
-- ⭐ 850+ GitHub stars
-- 📥 25,000+ downloads
-- 📱 Native Android application
-- 🧩 Open source
-- 🎨 Focused on clean UI and user experience
+-  850+ GitHub stars
+-  25,000+ downloads
+-  Native Android application
+-  Open source
+-  Focused on clean UI and user experience
 
 <p>
   <a href="https://github.com/nikhilvishwakarma00/Velune">
@@ -128,7 +128,7 @@ Built with:
   Velune is one of my projects — not the end goal. More ambitious projects are in progress.
 </blockquote>---
 
-🧪 What I'm Building
+** What I'm Building
 
 <table>
 <tr>
@@ -177,30 +177,30 @@ Editor    → Neovim
 Workflow  → Build • Break • Fix • Repeat
 ```
 <p align="center">
-  <i>⚡ Minimal setup. Maximum tinkering.</i>
+  <i> Minimal setup. Maximum tinkering.</i>
 </p>---
 
-🌱 Currently Learning
+Currently Learning
 
 <table>
 <tr>
-<td>⚙️ Backend Development</td>
-<td>☁️ DevOps & Cloud</td>
+<td> Backend Development</td>
+<td> DevOps & Cloud</td>
 </tr>
 <tr>
-<td>🔐 Cybersecurity</td>
-<td>🤖 AI & LLMs</td>
+<td> Cybersecurity</td>
+<td> AI & LLMs</td>
 </tr>
 <tr>
-<td>🧠 Data Structures & Algorithms</td>
-<td>🌐 Networking</td>
+<td> Data Structures & Algorithms</td>
+<td> Networking</td>
 </tr>
 </table>---
 
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Workflow  → Build • Break • Fix • Repeat
 
 ---
 
-📫 Connect With Me
+Connect With Me
 
 <p>
   <a href="https://github.com/nikhilvishwakarma00">
@@ -235,6 +235,6 @@ Workflow  → Build • Break • Fix • Repeat
   </a>
 </p>---
 
-<div align="center">Build it. Break it. Enjoy it, Learn from it. Repeat.👍
+<div align="center">Build it. Break it. Enjoy it, Learn from it. Repeat.
 
 </div>
