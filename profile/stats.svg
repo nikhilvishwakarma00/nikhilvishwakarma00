@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nikhil &#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 1365, Total Commits  (last year) : 132, Total PRs: 8, Total Issues: 2, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 1363, Total Commits  (last year) : 132, Total PRs: 8, Total Issues: 2, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 129.7367102240115;
+        stroke-dashoffset: 129.74090028170872;
       }
     }
   
